@@ -1,1 +1,2 @@
-String a collection of charcaters.
+String a collection of characters.
+Strings are immutable. It can store in the String Constan pool.
